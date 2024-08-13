@@ -1,0 +1,13 @@
+3. Reverse the First and Last Digits of a Number
+Problem Description:
+Write a program to reverse the first and last digits of a given number while keeping the other digits unchanged.
+
+Input:
+A single positive integer n (10 ≤ n ≤ 10^9).
+Output:
+Print the number after reversing the first and last digits.
+Sample Test Cases:
+Input 1: 12345
+Output 1: 52341
+Input 2: 987654
+Output 2: 487659

@@ -1,0 +1,13 @@
+7. Check Even or Odd Without Using Division
+Problem Description:
+Write a program to check if a given number is even or odd without using the division or modulus operator.
+
+Input:
+A single integer n (−10^9 ≤ n ≤ 10^9).
+Output:
+Print "EVEN" if the number is even; otherwise, print "ODD".
+Sample Test Cases:
+Input 1: 4
+Output 1: EVEN
+Input 2: 7
+Output 2: ODD

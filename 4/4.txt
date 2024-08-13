@@ -1,0 +1,13 @@
+4. Armstrong Number
+Problem Description:
+Write a program to check if a given number is an Armstrong number. An Armstrong number of n digits is an integer such that the sum of its own digits each raised to the power of n equals the number itself.
+
+Input:
+A single positive integer n (1 ≤ n ≤ 10^7).
+Output:
+Print "YES" if the number is an Armstrong number; otherwise, print "NO".
+Sample Test Cases:
+Input 1: 153
+Output 1: YES
+Input 2: 123
+Output 2: NO

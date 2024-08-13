@@ -1,0 +1,13 @@
+2. Anagram Check
+Problem Description:
+Write a program to check if two given strings are anagrams of each other. An anagram of a string is another string that contains the same characters, only the order of characters can be different.
+
+Input:
+Two strings s1 and s2 (1 ≤ |s1|, |s2| ≤ 1000), containing only lowercase letters.
+Output:
+Print "YES" if the strings are anagrams; otherwise, print "NO".
+Sample Test Cases:
+Input 1: listen, silent
+Output 1: YES
+Input 2: triangle, integral
+Output 2: YES

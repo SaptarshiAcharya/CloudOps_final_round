@@ -1,0 +1,13 @@
+1. Palindrome Check
+Problem Description:
+Write a program to check if a given string is a palindrome. A palindrome is a string that reads the same backward as forward.
+
+Input:
+A single string s (1 ≤ |s| ≤ 1000), which may contain letters lowercase only.
+Output:
+Print "YES" if the string is a palindrome; otherwise, print "NO".
+Sample Test Cases:
+Input 1: madam
+Output 1: YES
+Input 2: hello
+Output 2: NO

@@ -1,0 +1,13 @@
+5. Perfect Number
+Problem Description:
+Write a program to check if a given number is a perfect number. A perfect number is a positive integer that is equal to the sum of its proper divisors (excluding itself).
+
+Input:
+A single positive integer n (1 ≤ n ≤ 10^9).
+Output:
+Print "YES" if the number is a perfect number; otherwise, print "NO".
+Sample Test Cases:
+Input 1: 6
+Output 1: YES
+Input 2: 28
+Output 2: YES
